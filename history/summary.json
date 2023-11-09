@@ -22,7 +22,7 @@
     "url": "https://radio.onlyencodes.cc",
     "icon": "https://icons.duckduckgo.com/ip3/radio.onlyencodes.cc.ico",
     "slug": "only-encodes-radio-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 644,
     "timeMonth": 657,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "OnlyEncodes+ Chat - IRC",
