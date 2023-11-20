@@ -4,17 +4,17 @@
     "url": "https://onlyencodes.cc",
     "icon": "https://icons.duckduckgo.com/ip3/onlyencodes.cc.ico",
     "slug": "only-encodes-web-https",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 816,
-    "timeWeek": 769,
-    "timeMonth": 801,
-    "timeYear": 814,
+    "time": 833,
+    "timeDay": 1038,
+    "timeWeek": 849,
+    "timeMonth": 815,
+    "timeYear": 833,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 584,
     "timeDay": 240,
     "timeWeek": 490,
-    "timeMonth": 574,
+    "timeMonth": 587,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2023-11-09": 15
@@ -51,7 +51,7 @@
     "time": 223,
     "timeDay": 190,
     "timeWeek": 204,
-    "timeMonth": 217,
+    "timeMonth": 220,
     "timeYear": 223,
     "dailyMinutesDown": {}
   }
