@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 389,
-    "timeWeek": 709,
-    "timeMonth": 824,
-    "timeYear": 817,
+    "time": 813,
+    "timeDay": 484,
+    "timeWeek": 620,
+    "timeMonth": 814,
+    "timeYear": 813,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.onlyencodes.cc.ico",
     "slug": "only-encodes-radio-https",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 544,
-    "timeDay": 557,
-    "timeWeek": 397,
-    "timeMonth": 512,
-    "timeYear": 544,
+    "uptimeYear": "99.99%",
+    "time": 542,
+    "timeDay": 455,
+    "timeWeek": 322,
+    "timeMonth": 511,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2023-11-09": 15
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 70,
-    "timeWeek": 58,
-    "timeMonth": 131,
-    "timeYear": 191,
+    "time": 190,
+    "timeDay": 68,
+    "timeWeek": 65,
+    "timeMonth": 129,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   }
 ]
