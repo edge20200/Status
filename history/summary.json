@@ -4,18 +4,20 @@
     "url": "https://onlyencodes.cc",
     "icon": "https://icons.duckduckgo.com/ip3/onlyencodes.cc.ico",
     "slug": "only-encodes-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 484,
-    "timeWeek": 620,
-    "timeMonth": 814,
-    "timeYear": 813,
-    "dailyMinutesDown": {}
+    "time": 810,
+    "timeDay": 532,
+    "timeWeek": 615,
+    "timeMonth": 807,
+    "timeYear": 810,
+    "dailyMinutesDown": {
+      "2023-12-31": 0
+    }
   },
   {
     "name": "OnlyEncodes+ Radio - HTTPS",
