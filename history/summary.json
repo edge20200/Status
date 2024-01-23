@@ -6,15 +6,15 @@
     "slug": "only-encodes-web-https",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.84%",
-    "time": 953,
-    "timeDay": 4841,
-    "timeWeek": 2420,
-    "timeMonth": 1153,
-    "timeYear": 953,
+    "time": 952,
+    "timeDay": 796,
+    "timeWeek": 2438,
+    "timeMonth": 1177,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2024-01-21": 52,
       "2024-01-11": 68,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 534,
-    "timeDay": 210,
-    "timeWeek": 476,
-    "timeMonth": 468,
-    "timeYear": 534,
+    "time": 532,
+    "timeDay": 303,
+    "timeWeek": 464,
+    "timeMonth": 474,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-11-09": 15
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 72,
+    "time": 157,
+    "timeDay": 74,
     "timeWeek": 58,
     "timeMonth": 52,
-    "timeYear": 158,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   }
 ]
