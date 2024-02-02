@@ -5,6 +5,8 @@ repo: Status # The name of this repository
 sites:
   - name: OnlyEncodes+ Web - HTTPS
     url: https://onlyencodes.cc
+  - name: ToonsForMe Web - HTTPS
+    url: https://toonsfor.me
   - name: OnlyEncodes+ Radio - HTTPS
     url: https://radio.onlyencodes.cc
   - name: OnlyEncodes+ Chat - IRC
@@ -20,7 +22,7 @@ status-website:
   #baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "**OnlyEncodes+ Status**"
+  introTitle: "**OnlyEncodes+ Network Status**"
   introMessage: Service Status
   navbar:
     - title: Status
