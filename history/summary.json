@@ -27,19 +27,19 @@
     "url": "https://toonsfor.me",
     "icon": "https://icons.duckduckgo.com/ip3/toonsfor.me.ico",
     "slug": "toons-for-me-web-https",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 490,
-    "timeWeek": 821,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "90.81%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 873,
+    "timeDay": 561,
+    "timeWeek": 807,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2024-02-13": 0
+      "2024-02-13": 132
     }
   },
   {
