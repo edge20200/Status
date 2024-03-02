@@ -13,7 +13,7 @@
     "time": 907,
     "timeDay": 864,
     "timeWeek": 912,
-    "timeMonth": 783,
+    "timeMonth": 776,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2024-01-24": 60,
@@ -36,7 +36,7 @@
     "time": 510,
     "timeDay": 221,
     "timeWeek": 420,
-    "timeMonth": 409,
+    "timeMonth": 415,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2023-11-09": 15
@@ -47,7 +47,7 @@
     "url": "irc.onlyencodes.cc",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "only-encodes-chat-irc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 48,
     "timeMonth": 51,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   }
 ]
