@@ -5,6 +5,8 @@ repo: Status # The name of this repository
 sites:
   - name: OnlyEncodes+ Web - HTTPS
     url: https://onlyencodes.cc
+  - name: OnlyEncodes+ Radio - HTTPS   
+    url: https://radio.onlyencodes.cc
   - name: OnlyEncodes+ Chat - IRC
     check: "tcp-ping"
     url: irc.onlyencodes.cc
