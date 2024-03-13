@@ -10,16 +10,36 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 898,
-    "timeDay": 745,
-    "timeWeek": 839,
-    "timeMonth": 756,
-    "timeYear": 898,
+    "time": 897,
+    "timeDay": 758,
+    "timeWeek": 830,
+    "timeMonth": 757,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2024-01-24": 60,
       "2024-01-21": 52,
       "2024-01-11": 68,
       "2023-12-31": 94
+    }
+  },
+  {
+    "name": "OnlyEncodes+ Radio - HTTPS",
+    "url": "https://radio.onlyencodes.cc",
+    "icon": "https://icons.duckduckgo.com/ip3/radio.onlyencodes.cc.ico",
+    "slug": "only-encodes-radio-https",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 506,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 377,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2023-11-09": 15
     }
   },
   {
@@ -33,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 119,
-    "timeDay": 19,
-    "timeWeek": 29,
-    "timeMonth": 51,
-    "timeYear": 119,
+    "time": 118,
+    "timeDay": 11,
+    "timeWeek": 25,
+    "timeMonth": 50,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2024-03-02": 18
     }
